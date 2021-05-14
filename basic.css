@@ -257,6 +257,7 @@ li {
 
 .ham {
   display: none;
+  color:red;
 }
 
 .main-wrapper {
